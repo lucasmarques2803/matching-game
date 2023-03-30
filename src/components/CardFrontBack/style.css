@@ -1,6 +1,6 @@
 .card-front-back {
-    --width: 13rem;
-    --height: 16rem;
+    --width: 130px;
+    --height: 160px;
     
     width: var(--width);
     height: var(--height);
