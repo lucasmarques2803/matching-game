@@ -1,0 +1,9 @@
+.player-points {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 5rem;
+    height: 2rem;
+    background-color: var(--color-floral-white);
+    border: 0.2rem solid var(--color-fiery-rose);
+}
