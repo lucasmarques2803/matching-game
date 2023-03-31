@@ -1,4 +1,6 @@
 .score-board {
     display: flex;
     margin: 2rem;
+    align-items: center;
+    justify-content: space-between;
 }
