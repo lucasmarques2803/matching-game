@@ -1,0 +1,17 @@
+.player-score {
+    display: flex;
+    box-sizing: border-box;
+    width: 5rem;
+    height: 2rem;
+    background-color: var(--color-floral-white);
+    border: 0.2rem solid var(--color-fiery-rose);
+    padding: 0.1rem;
+    gap: 0.1rem;
+}
+
+.player-score > .pointer {
+    background-color: var(--color-old-silver);
+    text-indent: -9999px;
+    overflow: hidden;
+    width: 33%;
+}
